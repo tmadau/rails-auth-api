@@ -7,8 +7,8 @@ How to run the api app:
 * Ruby version
   - 2.7.1
 * System dependencies
-  - bcrypt: Secure hash algorithm for passwords.
-  - rack-cors: Used this to prevent CSRF(Cross Site Request Forgery).
+  - bcrypt: [Secure hash algorithm for passwords.]
+  - rack-cors: [Used this to prevent CSRF(Cross Site Request Forgery).]
 * Configuration
   - run: bundle install
   - run: yarn install

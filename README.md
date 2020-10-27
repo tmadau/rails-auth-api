@@ -1,9 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple auth api for registration, sign in and sign out endpoints
 
-Things you may want to cover:
+How to run and start the server:
 
 * Ruby version
 

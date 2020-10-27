@@ -15,7 +15,7 @@ How to run the api app:
 * Database creation
   - run: rails db:create
   - run: rails db:migrate
-* Database initialization
+<!-- * Database initialization
 
 * How to run the test suite
 
@@ -23,4 +23,4 @@ How to run the api app:
 
 * Deployment instructions
 
-* ...
+* ... -->

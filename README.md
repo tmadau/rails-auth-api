@@ -7,8 +7,8 @@ How to run the api app:
 * Ruby version
   - 2.7.1
 * System dependencies
-  - bcrypt: Used this so that user passwords are not store in plain text. bcrypt() is a sophisticated and secure hash algorithm designed by The OpenBSD project for hashing passwords.
-  - rack-cors: Used this to prevent CSRF(Cross Site Request Forgery). It is a Middleware that will make Rack-based apps CORS compatible.
+  - bcrypt: Secure hash algorithm for passwords.
+  - rack-cors: Used this to prevent CSRF(Cross Site Request Forgery).
 * Configuration
   - run: bundle install
   - run: yarn install

@@ -1,14 +1,14 @@
-# README
-
+# Authentication API endpoint template
+```
 Simple auth api for registration, sign in and sign out endpoints
-
+```
 How to run the api app:
 
 * Ruby version
   - 2.7.1
 * System dependencies
-  - bcrypt: [Secure hash algorithm for passwords.]
-  - rack-cors: [Used this to prevent CSRF(Cross Site Request Forgery).]
+  - [bcrypt](https://rubygems.org/gems/bcrypt): Secure hash algorithm for passwords encryption.
+  - [rack-cors](https://rubygems.org/gems/rack-cors): For preventing CSRF(Cross Site Request Forgery).
 * Configuration
   - run: bundle install
   - run: yarn install
